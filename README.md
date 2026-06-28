@@ -253,9 +253,9 @@ ai-fault-detection/
 
 ## 👤 Author
 
-**[Your Name]**  
+**[SAKSHAM UPADHYAY]**  
 Electrical Engineering Intern | MITS Gwalior  
-📧 [your.email@example.com] | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 [su98835@gmail.com] | 🔗 [LinkedIn](www.linkedin.com/in/saksham-upadhyay-13943840a)
 
 > *"Engineering is not about perfect first attempts — it's about systematic diagnosis, learning from failure, and building resilient systems."*
 
